@@ -1,4 +1,4 @@
-# igti-fullstack-mod1-cadastro-de-nomes
+# Cadastro de Nomes 
 Exemplo de cadastro simples de nomes utilizando JS Moderno
 
 
