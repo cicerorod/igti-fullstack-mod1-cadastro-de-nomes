@@ -1,5 +1,5 @@
 # Cadastro de Nomes 
-Exemplo de cadastro simples de nomes utilizando JS Moderno
+Cadastro simples de nomes utilizando JS Moderno desenvolvido no bootcamp fullstack da IGTI
 
 
 ## Html 🎯
