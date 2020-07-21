@@ -17,6 +17,7 @@ Cadastro simples de nomes utilizando JS Moderno desenvolvido no bootcamp fullsta
 
 - **HTML**
 - **JavaScript**
+- **CSS**
 
 ## Desenvolvedor
 [<img src="https://avatars.githubusercontent.com/cicerorod" width=115><br><sub>Cícero Rodrigues</sub>](https://github.com/cicerorod)
