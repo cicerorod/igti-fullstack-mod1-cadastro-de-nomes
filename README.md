@@ -1,6 +1,4 @@
-
-
-# Cadastro de Nomes
+# Cadastro de Nomes         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 Cadastro simples de nomes utilizando JS Moderno desenvolvido no bootcamp fullstack da IGTI
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
