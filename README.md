@@ -27,7 +27,8 @@ Cadastro simples de nomes utilizando JS Moderno desenvolvido no bootcamp fullsta
 4. _Push_ (`git push origin feature/[nome]`)
 5. Crie um novo _Pull Request_
 
-## ![](<img src="https://img.icons8.com/windows/32/000000/regular-document.png) Licença
+## ![](https://img.icons8.com/windows/32/000000/regular-document.png) Licença
+
 Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.com/cicerorod/igti-fullstack-mod1-cadastro-de-nomes/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
