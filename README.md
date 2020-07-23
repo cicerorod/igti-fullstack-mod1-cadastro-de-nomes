@@ -45,4 +45,9 @@ Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.co
 [![](https://img.icons8.com/material-rounded/29/000000/instagram-new.png)](https://www.instagram.com/cicero_rod/)
 [![](https://img.icons8.com/metro/26/000000/email.png)](mailto:cicerorod@gmail.com)
 
-<a href="https://icons8.com/">icon by Icons8</a>
+<p align="center">
+  <img src="https://img.icons8.com/wired/32/000000/icons8-new-logo.png" >
+  </br>
+  <a href="https://icons8.com/icon/">Icons by Icons8</a>
+  
+</p>
